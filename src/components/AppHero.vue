@@ -30,6 +30,10 @@
 			<i class="material-icons">location_on</i>
 			<span>Helsinki</span>
 		</div>
+		<div class="current__location">
+			<i class="material-icons">location_on</i>
+			<span>Helsinki</span>
+		</div>
 	</div>
 </template>
 
